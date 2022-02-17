@@ -22,3 +22,4 @@ This is great for you to add all your products quickly in your store to your CMS
 - open app hit the log in floating action button and login with administrator user and password this makes opencart to start new api token for you and send back it to your app.
 - take picture and fill the fields the hit to add product.
 
+<https://youtu.be/gt5mposQiKE>
