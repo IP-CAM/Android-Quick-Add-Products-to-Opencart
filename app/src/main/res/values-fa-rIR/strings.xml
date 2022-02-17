@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">addProductRet</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    //login
+    <string name="username">نام کاربری</string>
+    <string name="password">کلمه عبور</string>
+    <string name="loginButton">ورود</string>
+    <string name="dominName"> دامنه مورد استفاده</string>
+    <string name="login_title">Login</string>
+
+
+    //minActivity
+    <string name="main_name">افزودن سریع محصول</string>
+    <string name="picBtnText">گرفتن عکس</string>
+    <string name="name">نام محصول</string>
+    <string name="price">قیمت محصول</string>
+    <string name="quantity">تعداد محصول</string>
+    <string name="model">مدل محصول</string>
+    <string name="addPro">درج محصول</string>
+
+</resources>
